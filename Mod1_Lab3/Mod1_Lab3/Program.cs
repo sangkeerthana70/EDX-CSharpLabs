@@ -10,7 +10,7 @@ namespace Mod1_Lab3
     {
         static void Main(string[] args)
         {
-            // Instantiating an object of Car() Class by using Type Inference called Car1
+            // Instantiating an object of Car() Class by using Type Inference0 called Car1
             var Car1 = new Car();
             // Using dot notation to call members on Car1
             Car1.Color = "White";
